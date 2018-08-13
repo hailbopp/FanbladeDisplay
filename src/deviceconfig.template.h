@@ -1,0 +1,6 @@
+#define WIFI_SSID_1 "a"
+#define WIFI_KEY_1 "b"
+#define WIFI_SSID_2 "c"
+#define WIFI_KEY_2 "d"
+#define WIFI_SSID_3 "e"
+#define WIFI_KEY_3 "f"
